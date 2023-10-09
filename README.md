@@ -1,4 +1,14 @@
-### Hi Khyati Doshi 👋
+<h1 align="center">Hello!, I'm <a href="https://www.linkedin.com/in/khyatidoshi/"> Khyati Doshi </a>!!
+</h1>
+  
+- 🌱 I'm well-versed in Software Development, Data Science & ML/AI. Currently diving into Generative AI.
+- 👩‍🎓 Pursuing my Master's in **Computer Science at Rutgers University-New Brunswick.**
+
+<h1 align="center"> Find me around the web :globe_with_meridians:</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/khyatidoshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kbd57@scarletmail.rutgers.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <!--
 **khyatidoshi/khyatidoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
