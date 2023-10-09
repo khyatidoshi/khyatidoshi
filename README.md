@@ -10,6 +10,15 @@
   <a href="mailto:kbd57@scarletmail.rutgers.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## Technical Skills
+- ☁️ **Cloud Platforms**: Azure, Google Cloud Platform
+- 📈 **Data Visualization**: Jupyter Notebooks, Tableau, PowerBI
+- 📝 **Languages**: Bash/Shell, Python, Go, Java, C
+- 🌐 **Web Development**: HTML, CSS, Node.js
+- 📚 **Databases**: MySQL, MongoDB, PostgreSQL
+- 📜 **Libraries**: Pandas, Scipy, Seaborn, PyTorch, TensorFlow, Keras, PySpar
+- 🛠️ **DevOps Tools**: GitHub/GitLab, Helm, Docker, Kubernetes, SonarQube
+
 <!--
 **khyatidoshi/khyatidoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
