@@ -1,7 +1,7 @@
 <h1 align="center">Hello!, I'm <a href="https://www.linkedin.com/in/khyatidoshi/"> Khyati Doshi </a>!!
 </h1>
   
-- 🌱 I'm well-versed in Software Development, Data Science & ML/AI. Currently diving into Generative AI.
+- 🌱 I'm well-versed in Software Development, ML/AI & Natural Language Processing. Currently diving into Generative AI and LLM's.
 - 👩‍🎓 Pursuing my Master's in **Computer Science at Rutgers University-New Brunswick.**
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
@@ -18,6 +18,7 @@
 - 📚 **Databases**: MySQL, MongoDB, PostgreSQL
 - 📜 **Libraries**: Pandas, Scipy, Seaborn, PyTorch, TensorFlow, Keras, PySpar
 - 🛠️ **DevOps Tools**: GitHub/GitLab, Helm, Docker, Kubernetes, SonarQube
+- 📚 **Machine Learning**: Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA, Factor Analysis), Natural Language Processing (Text Analytics, Text Mining, Text Generation), Deep Learning, GAN's
 
 <!--
 **khyatidoshi/khyatidoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
