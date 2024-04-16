@@ -1,7 +1,7 @@
 <h1 align="center">Hello!, I'm <a href="https://www.linkedin.com/in/khyatidoshi/"> Khyati Doshi </a>!!
 </h1>
   
-- 🌱 I'm well-versed in Software Development, ML/AI & Natural Language Processing. Currently diving into Generative AI and LLM's.
+- 🌱 I'm well-versed in Software Development(Backend), ML/AI & Natural Language Processing. Currently diving into Generative AI and LLM's.
 - 👩‍🎓 Pursuing my Master's in **Computer Science at Rutgers University-New Brunswick.**
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
@@ -11,10 +11,10 @@
 </p>
 
 ## Technical Skills
-- ☁️ **Cloud Platforms**: Azure, Google Cloud Platform
+- ☁️ **Cloud Platforms**: AWS(Lambda, EC2, S3, RDS), Azure, Google Cloud Platform
 - 📈 **Data Visualization**: Jupyter Notebooks, Tableau, PowerBI
 - 📝 **Languages**: Bash/Shell, Python, Go, Java, C
-- 🌐 **Web Development**: HTML, CSS, Node.js
+- 🌐 **Web Development Tools / Framework / Techniques**: HTML, CSS, Node.js, Kafka, GraphQL, gRPC, REST 
 - 📚 **Databases**: MySQL, MongoDB, PostgreSQL
 - 📜 **Libraries**: Pandas, Scipy, Seaborn, PyTorch, TensorFlow, Keras, PySpar
 - 🛠️ **DevOps Tools**: GitHub/GitLab, Helm, Docker, Kubernetes, SonarQube
