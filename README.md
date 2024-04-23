@@ -1,7 +1,7 @@
 <h1 align="center">Hello!, I'm <a href="https://www.linkedin.com/in/khyatidoshi/"> Khyati Doshi </a>!!
 </h1>
   
-- 🌱 I'm well-versed in Software Development(Backend), ML/AI & Natural Language Processing. Currently diving into Generative AI and LLM's.
+- 🌱 I'm well-versed in Software Development(Backend) and exploring ML models. 
 - 👩‍🎓 Pursuing my Master's in **Computer Science at Rutgers University-New Brunswick.**
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
