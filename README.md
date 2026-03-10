@@ -1,15 +1,14 @@
 <h1 align="center">Hello!, I'm <a href="https://www.linkedin.com/in/khyatidoshi/"> Khyati Doshi </a>!!
 </h1>
-  
-- 🌱 I'm well-versed in Software Development(Backend) and exploring ML models. 
-- 👩‍🎓 Pursuing my Master's in **Computer Science at Rutgers University-New Brunswick.**
+
+- 📝 SDE at Annapurna, AWS
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/khyatidoshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kbd57@scarletmail.rutgers.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<!--
 ## Technical Skills
 - ☁️ **Cloud Platforms**: AWS(Lambda, EC2, S3, RDS), Azure, Google Cloud Platform
 - 📈 **Data Visualization**: Jupyter Notebooks, Tableau, PowerBI
@@ -20,7 +19,7 @@
 - 🛠️ **DevOps Tools**: GitHub/GitLab, Helm, Docker, Kubernetes, SonarQube
 - 📚 **Machine Learning**: Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA, Factor Analysis), Natural Language Processing (Text Analytics, Text Mining, Text Generation), Deep Learning, GAN's
 
-<!--
+
 **khyatidoshi/khyatidoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+  
+  <!--
+- 🌱 I'm well-versed in Software Development(Backend) and exploring ML models. 
+- 👩‍🎓 Master's in **Computer Science at Rutgers University-New Brunswick.**
 -->
