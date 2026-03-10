@@ -1,6 +1,7 @@
-<h1 align="center">Hello!, I'm <a href="https://www.linkedin.com/in/khyatidoshi/"> Khyati Doshi </a>!!
-</h1>
 
+<h1 align="center">Hello! <!-- I'm <a href="https://www.linkedin.com/in/khyatidoshi/"> Khyati Doshi </a>!!-->
+</h1>
+<!--
 - 📝 SDE at Annapurna, AWS
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
@@ -8,7 +9,7 @@
   <a href="https://www.linkedin.com/in/khyatidoshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kbd57@scarletmail.rutgers.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<!--
+
 ## Technical Skills
 - ☁️ **Cloud Platforms**: AWS(Lambda, EC2, S3, RDS), Azure, Google Cloud Platform
 - 📈 **Data Visualization**: Jupyter Notebooks, Tableau, PowerBI
